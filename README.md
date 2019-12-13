@@ -1,4 +1,5 @@
 gitkraken_workshiop
+
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
 classes. We will have this written in both R and Python. 
@@ -11,6 +12,7 @@ matplotlib and seaborn for Python
 Simply fire up RStudio for trying out your R code, or Spyder for your Python code.
 
 ## Getting help
+For help with Git google "git help".
 
 ## Contributors
 Contributions and references are included in the source code files.
